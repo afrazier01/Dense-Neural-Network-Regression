@@ -1,4 +1,4 @@
-# Neural-Network-Regression
+# Dense-Neural-Network-Regression
 In the notebook attached to this repo, I experiment with my first deep learning model!
 
 > Note: _Click [here](https://colab.research.google.com/drive/19ewy45F8BRp6IlxyEkrojF721vwkAhaF?usp=sharing) to navigate directly to my Colab notebook!_
